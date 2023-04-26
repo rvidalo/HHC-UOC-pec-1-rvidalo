@@ -126,7 +126,7 @@ main {
     display: none;
 }
 
-#containerIndex figure img, .portada img{
+#containerIndex figure img, .portada img, .portada{
     width: 100%;
     height: auto;
     object-fit: cover;
